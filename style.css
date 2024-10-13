@@ -11,9 +11,12 @@
   padding-top: 105px;
 }
 
-
-.subcribe{
+.subcribe {
   background-image: url(./img/subscribe.jpg);
   background-size: cover;
   background-position: center;
+}
+
+.brand-icon img {
+  width: 130px;
 }
