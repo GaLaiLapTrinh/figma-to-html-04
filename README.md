@@ -7,7 +7,7 @@
 https://tuhoc.cc/duan --> Chọn dự án 4
 
 \*\* Link full code dự án :
-https://galailaptrinh.github.io/figma-to-html-04/
+https://github.com/GaLaiLapTrinh/figma-to-html-04
 
                         _oo0oo_
                          o8888888o
